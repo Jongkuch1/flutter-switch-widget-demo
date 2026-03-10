@@ -19,9 +19,11 @@ Switch(
 
 ## Screenshots
 
-| All Off | Dark Mode On | Push Notifications On | Location Access On |
-|---|---|---|---|
+| All Off                                          | Dark Mode On                                  | Push Notifications On                                          | Location Access On                                         |
+|--------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
 | ![All switches off](screenshots/Switch-off.png) | ![Dark mode on](screenshots/Dark-Mood-On.png) | ![Push notifications on](screenshots/Push-Notification-On.png) | ![Location access on](screenshots/Location-Access-On.png) |
+
+*Settings screen showing three Switch widgets*
 
 ---
 

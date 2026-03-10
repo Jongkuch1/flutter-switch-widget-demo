@@ -17,6 +17,14 @@ Switch(
 
 ---
 
+## Screenshots
+
+| All Off | Dark Mode On | Push Notifications On | Location Access On |
+|---|---|---|---|
+| ![All switches off](screenshots/Switch-off.png) | ![Dark mode on](screenshots/Dark-Mood-On.png) | ![Push notifications on](screenshots/Push-Notification-On.png) | ![Location access on](screenshots/Location-Access-On.png) |
+
+---
+
 ## Real-World Use Case
 
 This demo mimics a typical **mobile app Settings screen** — one of the most common patterns in production apps (think iOS Settings, Android Settings, or apps like Spotify and Instagram). Each row uses a `Switch` to toggle a feature on or off and immediately shows feedback in the UI.
